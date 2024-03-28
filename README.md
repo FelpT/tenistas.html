@@ -15,8 +15,7 @@
                   <th>Nacionalidade</th>
                   <th>idade</th>
                   <th>Pontuação</th>
-        
-                </tr>
+        </tr>
          </thead>     
          <tbody>
                  <tr>
@@ -25,7 +24,7 @@
                     <td>36 anos</td>
                     <td>9725</td>
 
-                 </tr>  
+ </tr>  
                  <tr>
                     <td>Carlos Alcaraz</td>
                     <td>Espanhól</td>
@@ -44,7 +43,7 @@
                     <td>28 anos</td>
                     <td>7765</td> 
         
-                 </tr>
+  </tr>
                  <tr>
                     <td>Alexander Zverev</td>
                     <td>Alemão</td>
@@ -57,40 +56,40 @@
                     <td>26 anos</td>
                     <td>4970</td> 
         
-                 </tr>
+  </tr>
                  <tr>
                     <td>Holger Rune</td>
                     <td>Dinamarquês</td>
                     <td>20 anos</td>
                     <td>3875</td> 
         
-                 </tr>
+</tr>
                  <tr>
                     <td>Casper Ruud</td>
                     <td>Norueguês</td>
                     <td>25 anos</td>
                     <td>3560</td> 
         
-                 </tr>
+ </tr>
                  <tr>
                     <td>Hubert Hurkacz</td>
                     <td>Polonês</td>
                     <td>27 anos</td>
                     <td>3370</td> 
         
-                 </tr>
+  </tr>
                  <tr>
                     <td>Alex de Minaur</td>
                     <td>Australiano</td>
                     <td>25 anos</td>
                     <td>3300</td> 
-        
-                </tr>
+
+ </tr>
          </tbody>
          <tfoot>
             <th colspan="4">As informações foram obtidas no dia 28/03/2024</th>
 
-         </tfoot>
+</tfoot>
      </table>
     
 </body>
